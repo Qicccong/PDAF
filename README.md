@@ -5,7 +5,7 @@ Code for AAAI26 2026 [Cong Qi, Wenbin Chen, Hai Chen, Qian Xu, Chenwang Wu, Shu 
 
 ## News
 
-8/2/2025 - Our code and paper are released.
+8/2/2025 - Our code and paper are submitted.
 
 ## Requisite
 
